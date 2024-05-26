@@ -1,11 +1,10 @@
 # 🌟 Selamat Datang di Profil GitHub Saya! 🌟
 
-### Halo! Saya [Nama Anda] 👋
+### Halo! Saya Paulus Kelvin Wiranata 👋
 
-- 🚀 **Pekerjaan:** [Pekerjaan atau peran Anda]
-- 🎓 **Pendidikan:** [Institusi atau jurusan Anda]
-- 💡 **Keahlian:** [Keahlian utama Anda, misalnya: Pemrograman, Desain, dll.]
-- 🌍 **Lokasi:** [Lokasi Anda]
+- 🚀 **Pekerjaan :** Web Developer
+- 🎓 **Pendidikan :** Sarjana Komputer
+- 🌍 **Lokasi :** Indonesia
 
 ## 🔧 Teknologi dan Alat yang Saya Gunakan
 
@@ -14,29 +13,9 @@
 - 💾 Database: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - 🔧 Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📈 Statistik GitHub Saya
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=UsernameAnda&show_icons=true&theme=radical)
-
 ## 📫 Hubungi Saya
 
-- 📧 Email: [email@example.com](mailto:email@example.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/UsernameAnda)
-- 🐦 Twitter: [Twitter Profile](https://twitter.com/UsernameAnda)
-
-## 📝 Proyek Terbaru
-
-- [🌟 Proyek Keren 1](https://github.com/UsernameAnda/proyek1): Deskripsi singkat proyek.
-- [🌟 Proyek Keren 2](https://github.com/UsernameAnda/proyek2): Deskripsi singkat proyek.
-
-## 🌱 Hal-hal yang Sedang Saya Pelajari
-
-- 📖 [Topik 1]
-- 📖 [Topik 2]
-
-## 🎉 Fun Fact
-
-- 🎮 Saya suka bermain video game.
-- 📚 Saya gemar membaca buku.
+- 📸 Instagram: [Instagram Profile](https://www.instagram.com/paul.uskelvinwiranata)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/paulus-kelvin-wiranata)
 
 Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika ingin berkolaborasi atau sekedar berbincang. 😊
