@@ -1,3 +1,5 @@
-- Halo! Saya Paulus Kelvin Wiranata 👋
-- Saya seorang sarjana komputer yang sangat antusias dalam web development.
-Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika ingin berkolaborasi atau sekedar berbincang. 😊
+# Halo, Saya Paulus Kelvin Wiranata 👋
+
+Saya adalah seorang Sarjana Komputer jurusan Sistem Informasi dengan minat besar dalam pengembangan web. Selamat datang di profil GitHub saya!
+
+
